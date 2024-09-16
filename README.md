@@ -11,9 +11,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limarodolfo&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
   </div>
+  
+  </div>
 
-</div>
+## &nbsp;My Stack
 
+<img src="https://skillicons.dev/icons?i=vscode,js,nodejs,git,github,postgres&theme=dark" />
 
   ## About me
 
